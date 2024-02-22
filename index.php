@@ -1,7 +1,7 @@
 <?php
 
 // File to upload
-$file_path = '/storage/emulated/0/shopping gpt.html';
+$file_path = '/storage/emulated/0/shopping gpt.json';
 
 // GitHub repository information
 $username = 'codegenius-studio';
